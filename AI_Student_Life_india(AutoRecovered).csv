@@ -1,0 +1,18 @@
+Row Labels,Average of Daily_Usage_Hours,,,,,,Row Labels,Count of Age,Average of Age,Max of Age,Min of Age,,,,,,,,,,,,,,,,,,,,
+ChatGPT,3.1,,,,,,ChatGPT,124,19,25,15,,,,,,,,,,,,,,,,,,,,
+Copilot,2.8,,,,,,Copilot,108,20,24,15,,,,,,,,,,,,,,,,,,,,
+Gemini,2.8,,,,,,Gemini,129,20,25,15,,,,,,,,,,,,,,,,,,,,
+Grammarly,3.4,,,,,,Grammarly,24,19,25,15,,,,,,,,,,,,,,,,,,,,
+Notion AI,2.7,,,,,,Notion AI,15,19,25,15,,,,,,,,,,,,,,,,,,,,
+Grand Total,2.93375,,,,,,Grand Total,400,19,25,15,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,Count of Student_ID,Column Labels,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,Row Labels,Ahmedabad,Bangalore,Chennai,Delhi,Faisalabad,Hyderabad,Islamabad,Jaipur,Karachi,Kolkata,Lahore,Lucknow,Multan,Mumbai,Pune,Grand Total
+,,,,,,,Count of Student_ID,Column Labels,,,,,,,ChatGPT,6,13,12,15,2,12,1,12,3,12,6,11,8,4,7,124
+,,,,,,,Row Labels,Female,Male,Grand Total,,,,,Copilot,7,11,12,13,5,4,4,5,2,10,3,9,3,7,13,108
+,,,,,,,ChatGPT,62,62,124,,,,,Gemini,15,8,8,9,7,11,3,15,5,8,1,9,8,12,10,129
+,,,,,,,Copilot,52,56,108,,,,,Grammarly,,,,,1,,8,,1,,8,,6,,,24
+,,,,,,,Gemini,63,66,129,,,,,Notion AI,,,,,2,,2,,3,,4,,4,,,15
+,,,,,,,Grammarly,11,13,24,,,,,Grand Total,28,32,32,37,17,27,18,32,14,30,22,29,29,23,30,400
+,,,,,,,Notion AI,7,8,15,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,Grand Total,195,205,400,,,,,,,,,,,,,,,,,,,,,
